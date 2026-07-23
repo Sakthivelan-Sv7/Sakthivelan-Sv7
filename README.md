@@ -203,11 +203,11 @@ Python • React • JavaScript • HTML • CSS
 
 <p align="left">
 
-<a href="https://linkedin.com/in/YOUR_LINKEDIN">
+<a href="https://www.linkedin.com/in/sakthivelan-k-86b316420/">
 <img src="https://skillicons.dev/icons?i=linkedin"/>
 </a>
 
-<a href="mailto:YOUR_EMAIL@gmail.com">
+<a href="mailto:sakthivelancodes@gmail.com">
 <img src="https://skillicons.dev/icons?i=gmail"/>
 </a>
 
